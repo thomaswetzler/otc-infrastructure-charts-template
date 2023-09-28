@@ -63,7 +63,4 @@ charts:
     targetRevision: 1.2.1
     # values files needs to be inside this chart
     valueFile: "value-files/admin-dashboard/values.yaml"
-  # ELK
-  elastic-stack:
-  namespace: monitoring
-  targetRevision: "7.17.3-route-bugfix"  
+

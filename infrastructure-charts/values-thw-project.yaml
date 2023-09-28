@@ -1,6 +1,6 @@
 #Information injected by terraform
 projectValues:
-  stage: "SET_BY_TERRAFORM"
+  stage: "dev"
   traefikElbId: "SET_BY_TERRAFORM"
   rootDomain: "SET_BY_TERRAFORM"
   basicAuthPassword: "SET_BY_TERRAFORM"
